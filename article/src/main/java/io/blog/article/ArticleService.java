@@ -1,7 +1,7 @@
 /**
  * Created by IntelliJ IDEA.
  * User: Cangue.Jamba
- * Project name: microservices
+ * Project name: microservices-api-gateway
  */
 package io.blog.article;
 

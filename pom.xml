@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.microservices</groupId>
-    <artifactId>microservices</artifactId>
+    <groupId>io.microservices-api-gateway</groupId>
+    <artifactId>microservices-api-gateway</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -14,6 +14,7 @@
         <module>eureka-server</module>
         <module>feign</module>
         <module>notification</module>
+        <module>gatewayAPI</module>
     </modules>
 
 
